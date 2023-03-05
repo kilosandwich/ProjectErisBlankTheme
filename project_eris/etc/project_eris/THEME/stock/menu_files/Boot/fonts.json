@@ -1,0 +1,16 @@
+{
+  "DEFAULT_TEXT": {"fontPath": "LiberationSans-Regular.ttf", "r": 0, "g": 0, "b": 0},
+  "HEADER_TEXT": {"fontPath": "LiberationSans-Bold.ttf", "r": 0, "g": 0, "b": 0},
+  "FOOTER_TEXT": {"fontPath": "Cabin-Regular.ttf", "r": 0, "g": 0, "b": 0},
+  "BOOT_FOOTER_TEXT": {"fontPath": "Cabin-Bold.ttf", "r": 0, "g": 0, "b": 0},
+  "GENERIC_MENU_ITEM_TEXT": {"fontPath": "LiberationSans-Regular.ttf", "r": 0, "g": 0, "b": 0},
+  "GENERIC_MENU_ITEM_TEXT_ACTIVE": {"fontPath": "LiberationSans-Bold.ttf", "r": 0, "g": 0, "b": 0},
+  "KEYBOARD_TEXT": {"fontPath": "LiberationSans-Bold.ttf", "r": 0, "g": 0, "b": 0},
+  "KEYBOARD_LETTER": {"fontPath": "LiberationSans-Regular.ttf", "r": 0, "g": 0, "b": 0},
+  "KEYBOARD_LETTER_ACTIVE": {"fontPath": "LiberationSans-Bold.ttf", "r": 0, "g": 0, "b": 0},
+  "PUSH_BUTTON": {"fontPath": "LiberationSans-Bold.ttf", "r": 0, "g": 0, "b": 0},
+  "RANGE_SCROLL_TEXT": {"fontPath": "LiberationSans-Regular.ttf", "r": 0, "g": 0, "b": 0},
+  "MESSAGE_BOX_HEADER_TEXT": {"fontPath": "LiberationSans-Bold.ttf", "r": 0, "g": 0, "b": 0},
+  "MESSAGE_BOX_TEXT": {"fontPath": "LiberationSans-Regular.ttf", "r": 0, "g": 0, "b": 0},
+  "WARNING_HEADER_TEXT": {"fontPath": "LiberationSans-Bold.ttf", "r": 0, "g": 0, "b": 0}
+}
